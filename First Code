@@ -4,3 +4,6 @@
 
 n<-100
 n*(n+1)/2
+
+# Seq make a list of number 
+# Sum adds them up
