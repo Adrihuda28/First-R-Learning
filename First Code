@@ -1,0 +1,6 @@
+# How to determine the positive integer
+# use this formula
+#n*(n+1)/2, always use * in R because it means multiply
+
+n<-100
+n*(n+1)/2
